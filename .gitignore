@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.lock
+
+# Leftover duplicate from initial folder reorg (real copy lives in dashboard/)
+/customer_behavior_dashboard.pbix
+
+# Editors
+.vscode/
+.idea/
