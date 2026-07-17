@@ -2,6 +2,8 @@
 
 End-to-end data analytics project that takes raw retail transaction data from **Python (cleaning & feature engineering)** → **PostgreSQL (business-question SQL)** → **Power BI (interactive dashboard)**, answering 10 real-world customer behavior questions for a retail stakeholder.
 
+📊 **[View on Kaggle](https://www.kaggle.com/code/bravewolf03/customer-shopping-behavior-revenue)**
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
