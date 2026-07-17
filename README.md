@@ -8,6 +8,9 @@ End-to-end data analytics project that takes raw retail transaction data from **
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/bravewolf03/customer-shopping-behavior-revenue)
+
+📊 **[View on Kaggle](https://www.kaggle.com/code/bravewolf03/customer-shopping-behavior-revenue)** — runs end-to-end with a single "Run All" (SQLite instead of PostgreSQL, no local setup needed)
 
 ## Table of Contents
 
